@@ -32,7 +32,7 @@ os meus projetos pessoais e estudos principalmente em Python e R.
   <a href = "mailto:leoaagreg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leoaagreg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/nardao666/nardao666/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nardao666/nardao666/blob/output/github-contribution-grid-snake.gif)
  
 </div>
 
